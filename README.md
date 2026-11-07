@@ -43,6 +43,7 @@ I'm continuously building hands-on projects to strengthen my technical skills an
 
 - **GitHub:** https://github.com/Dnyaneshwar-CloudEng
 - **LinkedIn:** www.linkedin.com/in/dnyaneshwar-nangrale-020b68380
+- **Email ID :**dnyaneshwarnangrale45@gmail.com
 
 ---
 
