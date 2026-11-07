@@ -42,7 +42,7 @@ I'm continuously building hands-on projects to strengthen my technical skills an
 ### 🤝 Connect With Me
 
 - **GitHub:** https://github.com/Dnyaneshwar-CloudEng
-- **LinkedIn:** Add your LinkedIn profile URL here.
+- **LinkedIn:** www.linkedin.com/in/dnyaneshwar-nangrale-020b68380
 
 ---
 
